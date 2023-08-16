@@ -1,0 +1,25 @@
+/* .about_comp{
+    width: 100%;
+    background-color: rgb(249, 245, 241);
+    height: 500px;
+} */
+
+#id1{
+    padding-top:  5rem;
+ }
+ 
+ #id2{
+     font-size: 70px;
+     font-family: 'Baloo Bhaijaan 2', cursive;
+     font-family: 'Oswald', sans-serif;
+     font-family: 'Roboto Condensed', sans-serif;
+ }
+ 
+ #id3{
+     font-size: 20px;
+     font-family: 'Baloo Bhaijaan 2', cursive;
+     font-family: 'Oswald', sans-serif;
+     font-family: 'Roboto Condensed', sans-serif;
+ }
+ 
+ 

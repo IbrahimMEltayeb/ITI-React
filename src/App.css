@@ -1,0 +1,28 @@
+.about_comp{
+    width: 100%;
+    background-color: rgb(249, 245, 241);
+    height: 400px;
+}
+
+.hero{
+    background-image: url('C:/Users/ibrah/Desktop/React task 1/task1/src/assets/images/elon1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 900px;
+    width: 100%;
+}
+
+.skills_comp{
+    width: 100%;
+    background-color: rgb(12, 10, 23);
+    height: 850px;
+    color: white;
+}
+
+.projects{
+    width: 100%;
+    background-color: rgb(249, 245, 241);
+    height : 950px;
+}
+

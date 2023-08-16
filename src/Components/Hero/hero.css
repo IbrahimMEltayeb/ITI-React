@@ -1,0 +1,33 @@
+
+.bio{
+    float: right;
+    text-align : center;
+    color: white;
+    margin-top: 320px;
+    margin-right: 200px;
+}
+
+#bio_id1{
+    font-size: 120px;
+    font-family: 'Baloo Bhaijaan 2', cursive;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+#bio_id2{
+    font-size: 30px;
+    font-family: 'Baloo Bhaijaan 2', cursive;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+#btn1{
+    background-color: transparent;
+    color: white;
+    width:150px;
+    height: 35px;
+    border: 2px solid white;
+}
+
+
+

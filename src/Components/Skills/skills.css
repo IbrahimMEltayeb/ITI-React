@@ -1,0 +1,15 @@
+#skills_id{
+    padding-top: 50px;
+}
+
+#skills_id1{
+    font-size: 70px;
+    font-family: 'Baloo Bhaijaan 2', cursive;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.skill_bar{
+    margin-top: 5rem;
+    margin-left: 30rem;
+}
